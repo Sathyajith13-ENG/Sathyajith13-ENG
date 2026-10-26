@@ -1,144 +1,240 @@
- <!-- Profile README for Sathyajith13-ENG -->
+::: {align="center"}
+```{=html}
+<!-- Animated Header -->
+```
+`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:161b22,100:58a6ff&height=220&section=header&text=Sathyajith%20K&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Python%20Developer%20%7C%20AI%20%26%20ML%20Learner&descSize=17&descAlignY=56&descColor=58a6ff" />`{=html}
 
-<div align="center">
+`<br/>`{=html}
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:064E3B,100:22C55E&height=180&section=header&text=Sathyajith%20K&fontSize=48&fontColor=4ADE80&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Python%20Developer&descAlignY=58&descSize=20" width="100%" alt="Animated green and black header"/>
+`<a href="https://readme-typing-svg.demolab.com">`{=html}
+`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=Hi%2C+I'm+Sathyajith+K+%F0%9F%91%8B;Aspiring+Python+Developer;Exploring+AI%2C+ML+%26+Generative+AI;Progress+over+perfection.+One+commit+at+a+time." alt="Typing SVG" />`{=html}
+`</a>`{=html}
 
-<a href="https://github.com/Sathyajith13-ENG">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=4ADE80&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sathyajith+K+%F0%9F%91%8B;Aspiring+Python+Developer;Exploring+AI%2C+ML+%26+Generative+AI;Building+Practical+Software+Projects;Open+to+Internships+%26+Entry-Level+Roles;Learning%2C+Building%2C+and+Growing+Every+Day" alt="Animated typing introduction"/>
-</a>
+`<br/>`{=html}
 
-<br/>
+![Profile
+Views](https://komarev.com/ghpvc/?username=Sathyajith13-ENG&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
+  [![GitHub
+followers](https://img.shields.io/github/followers/Sathyajith13-ENG?style=for-the-badge&color=238636&labelColor=0d1117&label=Followers)](https://github.com/Sathyajith13-ENG?tab=followers)
+  [![GitHub
+stars](https://img.shields.io/github/stars/Sathyajith13-ENG?style=for-the-badge&color=e3b341&labelColor=0d1117&label=Repository+Stars&affiliations=OWNER)](https://github.com/Sathyajith13-ENG?tab=repositories)
+:::
 
-<img src="https://komarev.com/ghpvc/?username=Sathyajith13-ENG&style=for-the-badge&color=166534" alt="Profile views"/>
-<a href="https://github.com/Sathyajith13-ENG?tab=followers"><img src="https://img.shields.io/github/followers/Sathyajith13-ENG?style=for-the-badge&color=166534&label=Followers" alt="GitHub followers"/></a>
-<a href="https://github.com/Sathyajith13-ENG"><img src="https://img.shields.io/github/stars/Sathyajith13-ENG?style=for-the-badge&color=166534&label=Stars" alt="GitHub stars"/></a>
+------------------------------------------------------------------------
 
-</div>
+## ⚡ A little about my journey
 
-## `whoami` — About Me
+I'm an aspiring **Python Developer** who enjoys learning by building
+practical software projects. I'm strengthening my programming and
+web-development fundamentals while exploring **Artificial Intelligence,
+Machine Learning, and Generative AI**.
 
-Hi! I'm **Sathyajith K**, an aspiring Python Developer who enjoys building practical software projects and continuously improving my technical skills.
+I believe good developers keep learning, understand the code they build,
+and improve one step at a time. I'm looking for an **internship or
+entry-level opportunity** where I can learn from a team, contribute
+sincerely, and grow through real-world experience.
 
-- 🐍 Focused on Python development and problem-solving.
-- 🤖 Interested in Artificial Intelligence, Machine Learning, and Generative AI.
-- 🛠️ Building projects to strengthen my development skills.
-- 🤝 Value teamwork, collaboration, and continuous learning.
-- 🌱 Currently learning **Flask / FastAPI, AI & Machine Learning, and LLMs / Generative AI**.
-- 💼 Open to **internships and entry-level opportunities**.
+-   🐍 Practising Python and SQL fundamentals
+-   🧩 Building projects to improve my problem-solving skills
+-   🤖 Exploring AI, ML, and Generative AI
+-   🤝 Open to collaboration, internships, and entry-level roles
+-   🌱 Learning by building, testing, and improving
 
-## `ls projects/` — Featured Projects
+------------------------------------------------------------------------
 
-<div align="center">
+## 🧬 Who I am
 
-<a href="https://github.com/Sathyajith13-ENG/Fake-News-Detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sathyajith13-ENG&repo=Fake-News-Detection&theme=chartreuse-dark&hide_border=true" alt="Fake News Detection project card"/>
-</a>
-<a href="https://github.com/Sathyajith13-ENG/ai-resume-validator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sathyajith13-ENG&repo=ai-resume-validator&theme=chartreuse-dark&hide_border=true" alt="AI Resume Validator project card"/>
-</a>
-<a href="https://github.com/Sathyajith13-ENG/Full-Stack-Blog-Application">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sathyajith13-ENG&repo=Full-Stack-Blog-Application&theme=chartreuse-dark&hide_border=true" alt="Full Stack Blog Application project card"/>
-</a>
-<a href="https://github.com/Sathyajith13-ENG/TO-DO-List--fastAPI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sathyajith13-ENG&repo=TO-DO-List--fastAPI&theme=chartreuse-dark&hide_border=true" alt="To-do List project card"/>
-</a>
+``` python
+sathyajith = {
+    "role": "Aspiring Python Developer",
+    "location": "India 🇮🇳",
+    "interests": ["Python", "Web Development", "AI", "Machine Learning"],
+    "currently_learning": ["Flask / FastAPI", "AI & ML", "LLMs & Generative AI"],
+    "mindset": "Progress over perfection. One commit at a time."
+}
+```
 
-</div>
+::: {align="center"}
+[![GitHub](https://img.shields.io/badge/GitHub-Sathyajith13--ENG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sathyajith13-ENG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathyajith1322)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathyajithkannanv@gmail.com)
+:::
 
-| Project | Description | Source code |
-|---|---|---|
-| Fake News Detection System | Personal project focused on detecting fake news. | [View repository](https://github.com/Sathyajith13-ENG/Fake-News-Detection) |
-| AI Resume Validator | AI-related resume validation project. | [View repository](https://github.com/Sathyajith13-ENG/ai-resume-validator) |
-| Full Stack Blog Application | Full-stack blog application. | [View repository](https://github.com/Sathyajith13-ENG/Full-Stack-Blog-Application) |
-| To-do / Task Management | Task management application using FastAPI. | [View repository](https://github.com/Sathyajith13-ENG/TO-DO-List--fastAPI) |
+------------------------------------------------------------------------
 
-## `cat skills.txt` — Technical Skills
+## 🏗️ Projects I've worked on
 
-**Programming and databases**
+> Small steps, practical projects, and continuous improvement.
 
-![Python](https://img.shields.io/badge/Python-Basic-166534?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20%2F%20MySQL-166534?style=for-the-badge&logo=mysql&logoColor=white)
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 📰 [Fake News Detection System](https://github.com/Sathyajith13-ENG/Fake-News-Detection.git)
 
-**Web development and APIs**
+A machine-learning project focused on classifying news content as **fake
+or real** using text-processing and classification concepts.
 
-![HTML5](https://img.shields.io/badge/HTML5-166534?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-166534?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-166534?style=for-the-badge&logo=react&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-166534?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-Learning-166534?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-166534?style=for-the-badge)
+**Focus:** Python · NLP · Scikit-learn
 
-**Data and development tools**
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### ✍️ [Full Stack Blog Application](https://github.com/Sathyajith13-ENG/Full-Stack-Blog-Application.git)
 
-![Pandas](https://img.shields.io/badge/Pandas-166534?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-166534?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-166534?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-166534?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-166534?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-166534?style=for-the-badge&logo=mongodb&logoColor=white)
+A full-stack blog application project built to practise application
+development and connect frontend and backend concepts.
 
-## `learning --now` — Currently Learning
+**Focus:** Full-stack development · REST APIs
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Learning-14532D?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Learning-14532D?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Learning-14532D?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-Learning-14532D?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-Learning-14532D?style=for-the-badge)
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### ✅ [To-Do / Task Management App](https://github.com/Sathyajith13-ENG/TO-DO-List--fastAPI.git)
 
-My goal is to strengthen my fundamentals and apply what I learn through practical projects.
+A task-management application for organising tasks and practising
+backend application development.
 
-## `git status` — GitHub Statistics
+**Focus:** Python · FastAPI
 
-<div align="center">
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 📄 [AI Resume Validator](https://github.com/Sathyajith13-ENG/ai-resume-validator)
 
-<a href="https://github.com/Sathyajith13-ENG">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sathyajith13-ENG&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/Sathyajith13-ENG">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathyajith13-ENG&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Most-used programming languages"/>
-</a>
+An AI-oriented project exploring resume review and validation workflows.
 
-<br/>
+**Focus:** Python · AI project development
 
-<img src="https://streak-stats.demolab.com?user=Sathyajith13-ENG&theme=chartreuse-dark&hide_border=true" alt="GitHub contribution streak" width="75%"/>
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
 
-<br/>
+------------------------------------------------------------------------
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sathyajith13-ENG&bg_color=000000&color=4ADE80&line=22C55E&point=86EFAC&area=true&hide_border=true" alt="GitHub contribution activity graph" width="95%"/>
+## 🛠️ Technologies & tools
 
-</div>
+::: {align="center"}
+**Programming and data**
 
-## `achievements` — GitHub Trophies
+![Python](https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Basics-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div align="center">
+**Web development**
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sathyajith13-ENG&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" width="95%"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![REST
+API](https://img.shields.io/badge/REST%20APIs-238636?style=for-the-badge)
 
-</div>
+**Tools and libraries**
 
-## `contributions` — Keep Building
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS
+Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<div align="center">
+**Currently learning**
 
-<img src="https://raw.githubusercontent.com/Sathyajith13-ENG/Sathyajith13-ENG/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake"/>
+![Flask](https://img.shields.io/badge/Flask-Learning-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Learning-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Machine
+Learning](https://img.shields.io/badge/Machine%20Learning-Learning-F7931E?style=for-the-badge)
+![Generative
+AI](https://img.shields.io/badge/Generative%20AI-Learning-8A2BE2?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+:::
 
-</div>
+------------------------------------------------------------------------
 
-*Note: The contribution snake requires a GitHub Actions workflow in this profile repository to generate the SVG. It will not appear until that workflow has been configured and run successfully.*
+## 📊 My GitHub activity
 
-## `connect` — Let's Connect
+::: {align="center"}
+`<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sathyajith13-ENG&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=c9d1d9&include_all_commits=true" alt="GitHub stats" />`{=html}
+`<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sathyajith13-ENG&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=e3b341&currStreakLabel=58a6ff" alt="GitHub contribution streak" />`{=html}
 
-<div align="center">
+`<br/>`{=html}`<br/>`{=html}
 
-<a href="https://www.linkedin.com/in/sathyajith1322"><img src="https://img.shields.io/badge/LinkedIn-Connect-166534?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:sathyajithkannanv@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-166534?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Sathyajith13-ENG"><img src="https://img.shields.io/badge/GitHub-Follow-166534?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+`<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathyajith13-ENG&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top languages" />`{=html}
 
-<br/><br/>
+`<br/>`{=html}`<br/>`{=html}
 
-**“Progress over perfection. One commit at a time.”**
+`<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sathyajith13-ENG&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e3b341&area=true" alt="Contribution activity graph" />`{=html}
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:064E3B,100:000000&height=100&section=footer" width="100%" alt="Green animated footer"/>
+`<br/>`{=html}`<br/>`{=html}
 
-</div>
+`<img src="https://github-profile-trophy.vercel.app/?username=Sathyajith13-ENG&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" alt="GitHub trophies" />`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## 🐍 My contribution journey
+
+This animation requires a GitHub Actions workflow to generate the
+`output/github-contribution-grid-snake.svg` file. After the workflow is
+configured, the snake animation will appear here.
+
+::: {align="center"}
+![Contribution
+snake](https://raw.githubusercontent.com/Sathyajith13-ENG/Sathyajith13-ENG/output/github-contribution-grid-snake.svg)
+:::
+
+------------------------------------------------------------------------
+
+## 🌱 What I'm focusing on
+
+-   Improving Python and SQL fundamentals
+-   Building and refining practical web applications
+-   Learning backend development with Flask and FastAPI
+-   Understanding machine-learning and Generative AI fundamentals
+-   Writing cleaner code and using Git/GitHub consistently
+
+------------------------------------------------------------------------
+
+## 🤝 Let's connect
+
+I'm happy to connect with developers, learn from others, collaborate on
+projects, and explore internship or entry-level opportunities.
+
+::: {align="center"}
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathyajith1322)
+[![Email](https://img.shields.io/badge/Send%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathyajithkannanv@gmail.com)
+
+`<br/>`{=html}
+
+### 💚 Progress over perfection. One commit at a time.
+
+*Learning every day. Building step by step. Growing with every project.*
+
+`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:161b22,100:58a6ff&height=120&section=footer" />`{=html}
+:::
